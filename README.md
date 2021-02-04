@@ -1,4 +1,4 @@
-# validation
+# v-validate
 
 ## Project setup
 ```
